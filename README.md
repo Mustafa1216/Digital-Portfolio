@@ -41,17 +41,17 @@
 
 <h3>1. PNP Celebration Website</h3>
 <p>A fun and engaging site designed for a national competition.</p>
-<a href="https://mustafa1216.github.io/PnP-Celebration-Site" target="_blank">Visit PNP Celebration Website</a>
+<a href="https://github.com/Mustafa1216/PNP-Celebration-Site/blob/main/pnp-celebration.mp4" target="_blank">Visit PNP Celebration Website</a>
 <br/><br/>
 
 <h3>2. Timeless Threads – Old Money Fashion</h3>
 <p>A stylish fashion store built using React, Tailwind, and SEO best practices.</p>
-<a href="https://mustafa1216.github.io/Timeless-threads" target="_blank">Visit Timeless Threads</a>
+<a href="https://github.com/Mustafa1216/Timeless-Threads/blob/main/timless-threads.mp4" target="_blank">Visit Timeless Threads</a>
 <br/><br/>
 
 <h3>3. Responsive Health Website</h3>
 <p>A clean and mobile-friendly health and wellness site with responsive design.</p>
-<a href="https://mustafa1216.github.io/Timeless-threads" target="_blank">Visit The Health Website</a>
+<a href="https://github.com/Mustafa1216/Health-Website/blob/main/health-website.mp4" target="_blank">Visit The Health Website</a>
 <br/><br/>
 
 <h2>Figma Designs</h2>
