@@ -37,7 +37,7 @@
 ![Screenshot 2025-05-20 201050](https://github.com/user-attachments/assets/46e06494-50e4-42a6-8766-1c2a188ea9c9)
 
 
-<h2>🌐 Websites I've Developed</h2>
+<h2> Websites I've Developed</h2>
 <ul>
   <li><b>PNP Celebration Website (Competition Project)</b>  
     - <a href="https://github.com/Mustafa1216/PnP-Website">GitHub Repository</a>  
@@ -48,7 +48,7 @@
   <li><b>Timeless Threads – Old Money Fashion Store</b>  
     - <a href="https://github.com/yourusername/Timeless-Threads">GitHub Repository</a>  
     - <a href="https://yourusername.github.io/Timeless-Threads/">Live Preview</a>  
-    - Technologies: React.js, Tailwind CSS, SEO, Multimedia Integration
+    - Technologies: React.js, CSS, SEO, Multimedia Integration
   </li>
   
   <li><b>Responsive Health & Wellness Website</b>  
@@ -58,7 +58,7 @@
   </li>
 </ul>
 
-<h2>📜 LinkedIn Learning Certificates</h2>
+<h2> LinkedIn Learning Certificates</h2>
 <ul>
   <li>UI/UX Design Fundamentals – <a href="#">View Certificate</a></li>
   <li>HTML & CSS for Web Developers – <a href="#">View Certificate</a></li>
@@ -66,15 +66,15 @@
   <li>Responsive Web Design – <a href="#">View Certificate</a></li>
 </ul>
 
-<h2>🤝 Connect With Me</h2>
+<h2> Connect With Me</h2>
 
-<a href="https://www.linkedin.com/in/yourlinkedin">
+<a href="https://www.linkedin.com/in/mustafa-damon-05b55b237/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/yourusername/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Mustafa1216">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/><br/>
