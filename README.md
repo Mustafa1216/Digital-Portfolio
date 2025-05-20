@@ -16,7 +16,9 @@
 <b>A:</b> Completed 123test skills test and cross-referenced results with job trends.<br/>
 <b>R:</b> Strengths like design thinking, prototyping, and responsive design confirmed I’m on the right path.</p>
 
-<h2>Personality Assessment Reflection</h2>
+<h2>Personality Test</h2>
+<p>After completing the 16Personalities test, I was identified as an ESFJ-A (Consul). This personality type is known for being sociable, supportive, and loyal—key traits that align with collaborative teamwork and a service-oriented mindset in the multimedia field.</p>
+<a href="https://www.16personalities.com/profiles/esfj-a/m/2u7qx5dnl" target="_blank">View My Personality Profile</a>
 <p><b>S:</b> Completed the 16Personalities MBTI test.<br/>
 <b>T:</b> Understand how my personality impacts teamwork and solo work.<br/>
 <b>A:</b> My INFJ result highlighted strategic, empathetic, and detail-driven traits.<br/>
