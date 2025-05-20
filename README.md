@@ -37,19 +37,25 @@
 ![Screenshot 2025-05-20 201050](https://github.com/user-attachments/assets/46e06494-50e4-42a6-8766-1c2a188ea9c9)
 
 
-<h2> Websites I've Developed</h2>
+<h2>🌐 Websites I've Developed</h2>
 <ul>
-  <li><b>MD Visuals Portfolio Website</b>  
-    - <a href="">View Website</a>  
-    - Technologies: HTML, CSS, JavaScript, Figma</li>
-    
+  <li><b>PNP Celebration Website (Competition Project)</b>  
+    - <a href="https://github.com/Mustafa1216/PnP-Website">GitHub Repository</a>  
+    - <a href="https://Mustafa1216.github.io/PnP-Website/">Live Preview</a>  
+    - Technologies: HTML, CSS, JavaScript, Responsive Layouts
+  </li>
+  
   <li><b>Timeless Threads – Old Money Fashion Store</b>  
-    - <a href="https://timelessthreads.netlify.app">View Website</a>  
-    - Technologies: React.js, Tailwind CSS, SEO Optimization</li>
-    
-  <li><b>ParkSpotter – Smart Parking App Concept</b>  
-    - <a href="https://github.com/yourusername/parkspotter">GitHub Repo</a>  
-    - Technologies: React Native, Firebase, UX Research</li>
+    - <a href="https://github.com/yourusername/Timeless-Threads">GitHub Repository</a>  
+    - <a href="https://yourusername.github.io/Timeless-Threads/">Live Preview</a>  
+    - Technologies: React.js, Tailwind CSS, SEO, Multimedia Integration
+  </li>
+  
+  <li><b>Responsive Health & Wellness Website</b>  
+    - <a href="https://github.com/yourusername/Responsive-Health-Website">GitHub Repository</a>  
+    - <a href="https://yourusername.github.io/Responsive-Health-Website/">Live Preview</a>  
+    - Technologies: HTML5, CSS Grid/Flexbox, Mobile First Design
+  </li>
 </ul>
 
 <h2>📜 LinkedIn Learning Certificates</h2>
