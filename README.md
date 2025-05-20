@@ -32,33 +32,48 @@
 <b>R:</b> Final CV is professional and already attracted internship interest.</p>
 
 <h2> CV Submission Evidence</h2>
-- Submitted to: PNet, LinkedIn Jobs, and Indeed.
+- Submitted to: LinkedIn Jobs, and Indeed.
 - Screenshot:  
-![Screenshot 2025-05-20 201050](https://github.com/user-attachments/assets/46e06494-50e4-42a6-8766-1c2a188ea9c9)
+![Mustafa' CV](https://github.com/user-attachments/assets/811fc213-3580-4915-aa3e-7bbe273b605d)
 
 
-<h2>🌐 Websites I've Developed</h2>
 
-<h3>1. 🥳 PNP Celebration Website</h3>
+<h2> Websites I've Developed</h2>
+
+<h3>1.  PNP Celebration Website</h3>
 <p>A fun and engaging site designed for a national competition.</p>
 <video width="100%" controls>
-  <source src="https://github.com/yourusername/PNP-Celebration-Site/raw/main/pnp-celebration.mp4" type="video/mp4">
+  <source src="https://github.com/Mustafa1216/PNP-Celebration-Site/raw/main/pnp-celebration.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<h3>2. 👗 Timeless Threads – Old Money Fashion</h3>
+<h3>2.  Timeless Threads – Old Money Fashion</h3>
 <p>A stylish fashion store built using React, Tailwind, and SEO best practices.</p>
 <video width="100%" controls>
-  <source src="https://github.com/yourusername/Timeless-Threads/raw/main/timeless-threads.mp4" type="video/mp4">
+  <source src="https://github.com/Mustafa1216/Timeless-Threads/raw/main/timeless-threads.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<h3>3. 🏥 Responsive Health Website</h3>
+<h3>3.  Responsive Health Website</h3>
 <p>A clean and mobile-friendly health and wellness site with responsive design.</p>
 <video width="100%" controls>
-  <source src="https://github.com/yourusername/Responsive-Health-Website/raw/main/health-website.mp4" type="video/mp4">
+  <source src="https://github.com/Mustafa1216/Health-Website/raw/main/health-website.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<h2> Figma Designs</h2>
+
+<h3>1.  Low-Fidelity Wireframe – DPSA Website</h3>
+<p>Early-stage wireframe designed to outline the structure of the DPSA website. Focused on layout, hierarchy, and user flow.</p>
+<a href="https://www.figma.com/file/yourDPSAfileID/DPSA-Wireframe?type=design&node-id=0%3A1&mode=design&t=xxxxx" target="_blank">
+  <img src="![DPSA](https://github.com/user-attachments/assets/7d872932-d2d0-423e-bff5-4a9f9618fac5)" alt="DPSA Low-Fidelity Wireframe" width="100%">
+</a>
+
+<h3>2.  High-Fidelity Wireframe – ParkSpotter App</h3>
+<p>Interactive and visually polished mobile app concept for ParkSpotter, a smart parking solution. Created using modern UI design principles.</p>
+<a href="https://www.figma.com/file/yourParkSpotterID/ParkSpotter-App-Design?type=design&node-id=0%3A1&mode=design&t=xxxxx" target="_blank">
+  <img src="![Park Spotter](https://github.com/user-attachments/assets/5e07946b-cda1-44f0-94ef-9f933ac91387)" alt="ParkSpotter High-Fidelity Wireframe" width="100%">
+</a>
 
 
 <h2> LinkedIn Learning Certificates</h2>
