@@ -37,26 +37,29 @@
 ![Screenshot 2025-05-20 201050](https://github.com/user-attachments/assets/46e06494-50e4-42a6-8766-1c2a188ea9c9)
 
 
-<h2> Websites I've Developed</h2>
-<ul>
-  <li><b>PNP Celebration Website (Competition Project)</b>  
-    - <a href="https://github.com/Mustafa1216/PnP-Website">GitHub Repository</a>  
-    - <a href="https://Mustafa1216.github.io/PnP-Website/">Live Preview</a>  
-    - Technologies: HTML, CSS, JavaScript, Responsive Layouts
-  </li>
-  
-  <li><b>Timeless Threads – Old Money Fashion Store</b>  
-    - <a href="https://github.com/yourusername/Timeless-Threads">GitHub Repository</a>  
-    - <a href="https://yourusername.github.io/Timeless-Threads/">Live Preview</a>  
-    - Technologies: React.js, CSS, SEO, Multimedia Integration
-  </li>
-  
-  <li><b>Responsive Health & Wellness Website</b>  
-    - <a href="https://github.com/yourusername/Responsive-Health-Website">GitHub Repository</a>  
-    - <a href="https://yourusername.github.io/Responsive-Health-Website/">Live Preview</a>  
-    - Technologies: HTML5, CSS Grid/Flexbox, Mobile First Design
-  </li>
-</ul>
+<h2>🌐 Websites I've Developed</h2>
+
+<h3>1. 🥳 PNP Celebration Website</h3>
+<p>A fun and engaging site designed for a national competition.</p>
+<video width="100%" controls>
+  <source src="https://github.com/yourusername/PNP-Celebration-Site/raw/main/pnp-celebration.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<h3>2. 👗 Timeless Threads – Old Money Fashion</h3>
+<p>A stylish fashion store built using React, Tailwind, and SEO best practices.</p>
+<video width="100%" controls>
+  <source src="https://github.com/yourusername/Timeless-Threads/raw/main/timeless-threads.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<h3>3. 🏥 Responsive Health Website</h3>
+<p>A clean and mobile-friendly health and wellness site with responsive design.</p>
+<video width="100%" controls>
+  <source src="https://github.com/yourusername/Responsive-Health-Website/raw/main/health-website.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 <h2> LinkedIn Learning Certificates</h2>
 <ul>
