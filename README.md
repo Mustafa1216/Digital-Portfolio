@@ -35,7 +35,7 @@
 
 <h2>CV Submission Evidence</h2>
 <p>Submitted to: LinkedIn Jobs and Indeed.</p>
-<img src="https://github.com/user-attachments/assets/6681a867-5530-4951-af5a-d15474d5a32c" alt="Mustafa CV Submission Screenshot" width="100%">
+<img src="https://github.com/user-attachments/assets/8f4c25d6-4f40-4c1c-803a-f68c16753572" alt="Mustafa CV Submission Screenshot" width="100%">
 
 <h2>Websites I've Developed</h2>
 
