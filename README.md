@@ -15,14 +15,18 @@
 <b>T:</b> Identify strengths to guide specialization.<br/>
 <b>A:</b> Completed 123test skills test and cross-referenced results with job trends.<br/>
 <b>R:</b> Strengths like design thinking, prototyping, and responsive design confirmed I’m on the right path.</p>
+<img src="https://github.com/user-attachments/assets/98c52bdb-d941-4c3a-881e-ffeb3ca0fb1d" alt="123test Skills Assessment Screenshot" width="100%">
+<p><a href="https://github.com/user-attachments/files/20369205/123Test_Report.pdf" target="_blank">Download Full 123test Report (PDF)</a></p>
 
 <h2>Personality Test</h2>
 <p>After completing the 16Personalities test, I was identified as an ESFJ-A (Consul). This personality type is known for being sociable, supportive, and loyal—key traits that align with collaborative teamwork and a service-oriented mindset in the multimedia field.</p>
 <a href="https://www.16personalities.com/profiles/esfj-a/m/2u7qx5dnl" target="_blank">View My Personality Profile</a>
 <p><b>S:</b> Completed the 16Personalities MBTI test.<br/>
 <b>T:</b> Understand how my personality impacts teamwork and solo work.<br/>
-<b>A:</b> My INFJ result highlighted strategic, empathetic, and detail-driven traits.<br/>
+<b>A:</b> My ESFJ result highlighted strategic, empathetic, and detail-driven traits.<br/>
 <b>R:</b> This self-awareness helps me manage projects better and contribute meaningfully to teams.</p>
+<img src="https://github.com/user-attachments/assets/3f7ff0dc-bb05-4869-ada0-c5bd362a42d5" alt="16Personalities ESFJ-A Result Screenshot" width="100%">
+
 
 <h2>Curriculum Vitae</h2>
 <p>
