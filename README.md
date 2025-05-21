@@ -95,3 +95,10 @@
 </ul>
 <p>More available upon request.</p>
 
+<hr>
+<h3>Connect with Me</h3>
+<p>Let's connect professionally on LinkedIn:</p>
+<a href="https://www.linkedin.com/in/mustafa-damon-05b55b237/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" width="32" style="vertical-align: middle; margin-right: 8px;">
+</a>
+
