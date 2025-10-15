@@ -4,82 +4,128 @@
 <a href="#">Aspiring UX/UI Specialist</a>
 </h1>
 
+<!-- ===== INTRODUCTION ===== -->
+<p>Welcome to my Digital Portfolio — a reflection of my journey as a Multimedia Design student at CPUT, where creativity meets technology. This portfolio compiles evidence of my development, employability preparation, and professional growth.</b> module.</p>
+
+<hr/>
+
+<!-- ===== CAREER COUNSELLING ===== -->
 <h2>Career Counselling Reflection</h2>
-<p><b>S:</b> Attended a online career counselling session in April 2025.<br/>
+<p><b>S:</b> Attended an online career counselling session in April 2025.<br/>
 <b>T:</b> Needed clarity on future pathways within ICT and Multimedia Design.<br/>
 <b>A:</b> Engaged in research and consulted the counsellor about creative technology roles.<br/>
-<b>R:</b> Discovered strong alignment with UX/UI and web development. This shaped my portfolio direction.</p>
+<b>R:</b> Discovered strong alignment with UX/UI and web development, shaping my portfolio direction.</p>
+[IMAGE PLACEHOLDER: Career Counselling Screenshot]
 
+<!-- ===== SKILLS AND INTERESTS ===== -->
 <h2>Skills and Interests Reflection</h2>
 <p><b>S:</b> Explored how my creative skills translate into tech careers.<br/>
 <b>T:</b> Identify strengths to guide specialization.<br/>
-<b>A:</b> Completed 123test skills test and cross-referenced results with job trends.<br/>
+<b>A:</b> Completed 123test skills test and compared results with job trends.<br/>
 <b>R:</b> Strengths like design thinking, prototyping, and responsive design confirmed I’m on the right path.</p>
 <img src="https://github.com/user-attachments/assets/98c52bdb-d941-4c3a-881e-ffeb3ca0fb1d" alt="123test Skills Assessment Screenshot" width="100%">
 <p><a href="https://github.com/user-attachments/files/20369205/123Test_Report.pdf" target="_blank">Download Full 123test Report (PDF)</a></p>
 
-<h2>Personality Test</h2>
-<p>After completing the 16Personalities test, I was identified as an ESFJ-A (Consul). This personality type is known for being sociable, supportive, and loyal—key traits that align with collaborative teamwork and a service-oriented mindset in the multimedia field.</p>
-<a href="https://www.16personalities.com/profiles/esfj-a/m/2u7qx5dnl" target="_blank">View My Personality Profile</a>
+<!-- ===== PERSONALITY TEST ===== -->
+<h2>Personality Test Reflection</h2>
 <p><b>S:</b> Completed the 16Personalities MBTI test.<br/>
 <b>T:</b> Understand how my personality impacts teamwork and solo work.<br/>
-<b>A:</b> My ESFJ result highlighted strategic, empathetic, and detail-driven traits.<br/>
-<b>R:</b> This self-awareness helps me manage projects better and contribute meaningfully to teams.</p>
+<b>A:</b> My ESFJ-A result highlighted empathy, leadership, and reliability.<br/>
+<b>R:</b> This helps me manage creative projects effectively and collaborate better.</p>
 <img src="https://github.com/user-attachments/assets/3f7ff0dc-bb05-4869-ada0-c5bd362a42d5" alt="16Personalities ESFJ-A Result Screenshot" width="100%">
+<a href="https://www.16personalities.com/profiles/esfj-a/m/2u7qx5dnl" target="_blank">View My Personality Profile</a>
 
+<hr/>
 
-<h2>Curriculum Vitae</h2>
-<p>
-  <a href="https://github.com/user-attachments/files/20353243/Mustafa_Damon_222591536_CV.pdf" target="_blank">
-    📄 Mustafa_Damon_222591536_CV.pdf
-  </a>
-</p>
-<p><b>S:</b> Created a CV tailored for the creative-tech industry.<br/>
-<b>T:</b> Highlight my unique skills and experiences in a visually appealing way.<br/>
-<b>A:</b> Used Canva and refined with feedback.<br/>
-<b>R:</b> Final CV is professional and already attracted internship interest.</p>
+<!-- ===== BUSINESS COMMUNICATION ===== -->
+<h2>Business Communication Evidence</h2>
+<p>Evidence of professional communication includes my cover letter and email correspondences for internship and graduate opportunities.</p>
 
-<h2>CV Submission Evidence</h2>
-<p>Submitted to: LinkedIn Jobs and Indeed.</p>
-<img src="https://github.com/user-attachments/assets/8f4c25d6-4f40-4c1c-803a-f68c16753572" alt="Mustafa CV Submission Screenshot" width="100%">
+<h3>1. Cover Letter – McRigour Media</h3>
+<p>Demonstrates professional communication, structure, and motivation for an industry role.</p>
+<p><a href="https://github.com/user-attachments/files/20399999/CoverLetter.pdf" target="_blank">📄 View Cover Letter (PDF)</a></p>
+[IMAGE PLACEHOLDER: Cover Letter Screenshot]
 
-<h2>Websites I've Developed</h2>
+<h3>2. NTT Data Graduate Screening Invitation</h3>
+<p>This invitation (dated 15 October 2025) confirms shortlisting for the NTT DATA 2026 Young Talent Graduate Program screening process.</p>
+[IMAGE PLACEHOLDER: Screenshot of NTT Email]
 
-<h3>1. PNP Celebration Website</h3>
-<p>A fun and engaging site designed for a national competition.</p>
-<a href="https://github.com/Mustafa1216/PNP-Celebration-Site/blob/main/pnp-celebration.mp4" target="_blank">Visit PNP Celebration Website</a>
-<br/><br/>
+<p><b>Reflection (STAR):</b><br/>
+<b>S:</b> Received formal communication from NTT DATA for the graduate screening process.<br/>
+<b>T:</b> Maintain professionalism and preparedness in digital communication.<br/>
+<b>A:</b> Responded promptly, researched the company culture, and prepared interview material.<br/>
+<b>R:</b> Strengthened professional communication and readiness for corporate environments.</p>
 
-<h3>2. Timeless Threads – Old Money Fashion</h3>
-<p>A stylish fashion store built using React, HTML, Css, JavaScript and SEO best practices.</p>
-<a href="https://github.com/Mustafa1216/Timeless-Threads/blob/main/timless-threads.mp4" target="_blank">Visit Timeless Threads</a>
-<br/><br/>
+<hr/>
 
-<h3>3. Responsive Health Website</h3>
-<p>A clean and mobile-friendly health and wellness site with responsive design.</p>
-<a href="https://github.com/Mustafa1216/Health-Website/blob/main/health-website.mp4" target="_blank">Visit The Health Website</a>
-<br/><br/>
+<!-- ===== INTERVIEW SKILLS ===== -->
+<h2>Interview Skills Evidence</h2>
+<p>Evidence includes participation in mock interviews and internship interview opportunities.</p>
 
-<h2>Figma Designs</h2>
+<h3>1. Mock Interview Session</h3>
+<p>Participated in a structured mock interview session to simulate real job scenarios and receive feedback.</p>
+[IMAGE PLACEHOLDER: Mock Interview Screenshot]
+<p><b>Reflection (STAR):</b> Improved self-confidence, verbal clarity, and professional body language.</p>
 
-<h3>1. Low-Fidelity Wireframe – DPSA Website</h3>
-<p>Early-stage wireframe designed to outline the structure of the DPSA website. Focused on layout, hierarchy, and user flow.</p>
-<a href="https://www.figma.com/design/ZQ1SYauFIPAQS8K1LjCYRv/DPSA?node-id=0-1&t=cP80VzSSCvmjXYSj-1" target="_blank">View DPSA Wireframe on Figma</a><br/>
-<img src="https://github.com/user-attachments/assets/7d872932-d2d0-423e-bff5-4a9f9618fac5" alt="DPSA Low-Fidelity Wireframe" width="100%">
-<br/><br/>
+<h3>2. CodSoft Internship Offer Letter</h3>
+<p>Successfully secured a Web Development internship offer, confirming application of interview and communication skills.</p>
+<p><a href="https://github.com/user-attachments/files/20399997/CodSoft_Internship_Letter.pdf" target="_blank">📄 View Internship Offer Letter (PDF)</a></p>
+[IMAGE PLACEHOLDER: Internship Letter Screenshot]
+<p><b>Reflection (STAR):</b><br/>
+<b>S:</b> Applied for CodSoft virtual internship.<br/>
+<b>T:</b> Demonstrate technical competence and communication.<br/>
+<b>A:</b> Completed assessment tasks and interview.<br/>
+<b>R:</b> Successfully accepted for Web Development Internship (Oct–Nov 2025).</p>
 
-<h3>2. High-Fidelity Wireframe – ParkSpotter App</h3>
-<p>Interactive and visually polished mobile app concept for ParkSpotter, a smart parking solution. Created using modern UI design principles.</p>
-<a href="https://www.figma.com/proto/eLPROKVbwH204B1L1y2cWr/ParkSpotter?node-id=5-276&t=rhSLowUEl9ZpXNS9-1" target="_blank">View ParkSpotter on Figma</a><br/>
-<img src="https://github.com/user-attachments/assets/ee678ec6-a4e3-4fd8-a21e-db75c3caba02" alt="ParkSpotter High-Fidelity Wireframe" width="100%">
-<br/><br/>
+<hr/>
 
-<h3>3. High-Fidelity Wireframe – CPUT App</h3>
-<p>Visually refined prototype of the official CPUT mobile app, designed to streamline student access to campus services, schedules, and announcements. Developed with a user-first, intuitive UI approach.</p>
-<a href="https://www.figma.com/design/vBeGYkEvTpWZee8kDrHrkP/MUF-CPUT-APP-UX?node-id=1-6&t=FJZPFe0HfVSDGKAB-1" target="_blank">View the CPUT App on Figma</a><br/>
-<img src="https://github.com/user-attachments/assets/8b940846-13d7-440d-ad93-312d211fae6e" alt="CPUT App High-Fidelity Wireframe" width="100%">
-<br/><br/>
+<!-- ===== PROFESSIONAL NETWORKING ===== -->
+<h2>Professional Networking</h2>
+<p>Actively building my online presence through LinkedIn, GitHub, and professional platforms.</p>
+<a href="https://www.linkedin.com/in/mustafa-damon-05b55b237/" target="_blank">Connect on LinkedIn</a>
+<p><b>Reflection (STAR):</b> Improved visibility and professional connections by engaging with ICT and design professionals online.</p>
+[IMAGE PLACEHOLDER: LinkedIn Profile Screenshot]
 
+<hr/>
+
+<!-- ===== WORKPLACE ETIQUETTE ===== -->
+<h2>Workplace Etiquette</h2>
+<p>Demonstrated professional etiquette during virtual internships and collaboration projects.</p>
+<p><b>Reflection (STAR):</b> Developed punctuality, communication discipline, and respect for deadlines and diversity in workspaces.</p>
+[IMAGE PLACEHOLDER: Team Collaboration Screenshot]
+
+<hr/>
+
+<!-- ===== WEBSITES PORTFOLIO ===== -->
+<section id="portfolio">
+  <h2>Websites</h2>
+  <p>Click any project to view the live demo.</p>
+
+  <ul>
+    <li><a href="https://sweet-cassata-8d96b1.netlify.app/" target="_blank">PnP Celebration Website</a> – Competition entry (3rd place). [IMAGE PLACEHOLDER]</li>
+    <li><a href="https://sparkly-daifuku-93191d.netlify.app/" target="_blank">Health Website</a> – Campus project with responsive design. [IMAGE PLACEHOLDER]</li>
+    <li><a href="https://timely-frangipane-961ef5.netlify.app/" target="_blank">SafeShelterCT</a> – AR-powered housing concept. [IMAGE PLACEHOLDER]</li>
+    <li><a href="https://melodious-pithivier-195006.netlify.app/" target="_blank">Glow & Go Beauty Studio</a> – Tailwind-based salon website. [IMAGE PLACEHOLDER]</li>
+    <li><a href="https://exquisite-sherbet-229293.netlify.app/" target="_blank">AL-NOOR Islamic Streetwear</a> – Islamic fashion brand site. [IMAGE PLACEHOLDER]</li>
+  </ul>
+</section>
+
+<hr/>
+
+<!-- ===== FIGMA PROJECTS ===== -->
+<section id="figma">
+  <h2>Figma Projects</h2>
+  <ul>
+    <li>Luxury Clothing Website Wireframe – [IMAGE PLACEHOLDER]</li>
+    <li>Hybrid Event Design Prototype – [IMAGE PLACEHOLDER]</li>
+    <li>E-commerce App Prototype – [IMAGE PLACEHOLDER]</li>
+    <li>CPUT Website Redesign – [IMAGE PLACEHOLDER]</li>
+  </ul>
+</section>
+
+<hr/>
+
+<!-- ===== CERTIFICATES ===== -->
 <h2>LinkedIn Learning Certificates</h2>
 <p>Here are some of the LinkedIn Learning Certificates I have achieved.</p>
 <ul>
@@ -95,10 +141,9 @@
 </ul>
 <p>More available upon request.</p>
 
-<hr>
-<h3>Connect with Me</h3>
-<p>Let's connect professionally on LinkedIn:</p>
-<a href="https://www.linkedin.com/in/mustafa-damon-05b55b237/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" width="32" style="vertical-align: middle; margin-right: 8px;">
-</a>
+<hr/>
 
+<h3>Connect with Me</h3>
+<a href="https://www.linkedin.com/in/mustafa-damon-05b55b237/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" width="32">
+</a>
