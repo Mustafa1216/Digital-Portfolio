@@ -23,8 +23,6 @@
 **A:** Consulted with a counsellor about creative technology career options.<br/>
 **R:** Discovered strong alignment with UX/UI and web development, shaping my future direction.
 
-<img src="https://github.com/user-attachments/assets/99e8a1f1-2b04-4f1c-b458-6a7c3c7d95a1" alt="Career Counselling Screenshot" width="100%"/>
-
 ---
 
 ## 🧩 Skills and Interests Reflection
